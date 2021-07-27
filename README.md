@@ -20,7 +20,7 @@
 
 * pkg install pyhon
 
-* git clone https://github.com/Rhmn8/chatbot-gabut
+* git clone https://github.com/Rhmn404/chatbot-gabut
 
 * cd chatbot-gabut
 
