@@ -25,7 +25,7 @@
 * cd chatbot-gabut
 
 * python chatbot.py
-
+```
 
 ## SELESAI SILAHKAN CHAT SJ YA GUYS
 
